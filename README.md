@@ -24,7 +24,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 - Experience Trend Analysis
 
 ## Dashboard Preview
-![Dashboard](HR Analytics Dashboard.png)
+![Dashboard](hr_dashboard.png)
 
 ## Author
 BhagyaRaj
